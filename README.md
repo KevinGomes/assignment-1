@@ -1,3 +1,5 @@
-Deployed Site:
+Group Members:
 
-https://kevingomes.github.io/assignment-1/
+KevinGomes - Kevin Gomes
+
+
